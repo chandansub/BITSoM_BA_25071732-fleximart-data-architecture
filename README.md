@@ -128,17 +128,8 @@ studentID-fleximart-data-architecture/
     ├── warehouse_data.sql
     └── analytics_queries.sql
 
-------------------------------------------------------------------
 
-.gitignore Template
 
-__pycache__/
-*.pyc
-.env
-venv/
-
-.vscode/
-.idea/
 
 .DS_Store
 Thumbs.db
