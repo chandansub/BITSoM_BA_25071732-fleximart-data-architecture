@@ -1,7 +1,9 @@
 FlexiMart Data Architecture Project
 
 Student Name:Chandan G 
+Student ID:BITSoM_BA_25071732
 Email:gowdac316@gmail.com
+Date:December 2025
 
 ------------------------------------------------------------------
 
