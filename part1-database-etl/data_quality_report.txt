@@ -1,0 +1,9 @@
+DATA QUALITY REPORT
+===================
+
+Customers records processed : 26
+Products records processed  : 20
+Sales records processed     : 41
+Duplicates removed          : 2
+Missing values handled      : 8
+Records loaded successfully : 20
